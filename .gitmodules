@@ -3,3 +3,23 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "CC"]
+	path = CC
+	url = https://github.com/cran/CC
+	shallow = true
+	registered = true
+[submodule "DAAG"]
+	path = DAAG
+	url = https://github.com/cran/DAAG
+	shallow = true
+	registered = true
+[submodule "MPV"]
+	path = MPV
+	url = https://github.com/cran/MPV
+	shallow = true
+	registered = true
+[submodule "sharpData"]
+	path = sharpData
+	url = https://github.com/cran/sharpData
+	shallow = true
+	registered = true
